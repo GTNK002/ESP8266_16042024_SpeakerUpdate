@@ -21,3 +21,5 @@ Java coding for the Android Application:
 • Then delete the code & type your code.
 • so, now the Loding part is also completed. 
 • Now run the application to see the output.
+
+Thus a Simple Android Application that makes use of Database is developed and executed successfully.
