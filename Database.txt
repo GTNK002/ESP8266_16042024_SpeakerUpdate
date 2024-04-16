@@ -1,0 +1,23 @@
+Develop an Application that makes use of Database
+
+To develop a Simple Android Application that makes use of Database
+
+Creating a New Project:
+• Open Android Studio & then click on File ->New ->New project.
+• Then type the application name as "exno.5" & Click Next.
+• Then select the minimum SDK & click Next.
+• Then select the Empty Activity & click Next. 
+• Finally click finish.
+
+Designing layout for the Android Application:
+• click on app ->res ->layout ->activity-main.xml
+• Now click on Text.
+• Then delete the Lode of type the code
+• Now click on design
+• So, now designing part is completed.
+
+Java coding for the Android Application:
+• click on app ->java ->com.example. exno5 ->main Activity.
+• Then delete the code & type your code.
+• so, now the Loding part is also completed. 
+• Now run the application to see the output.
